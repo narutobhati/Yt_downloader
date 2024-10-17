@@ -3,7 +3,16 @@
 A **YouTube Video Downloader** built as a Chrome extension using **React.js** and a backend server powered by **yt-dlp** to download videos directly from YouTube. This extension fetches the URL of the active YouTube tab and allows you to download the video to your local machine with ease.
 
 
+## Screenshots
 
+1. **Extendion's UI:**
+   ![Screenshot from 2024-10-17 15-13-07](https://github.com/user-attachments/assets/6f217295-f656-4c23-a803-aaf45c0d363c)
+
+2. **Video Downloading:**
+   ![Screenshot from 2024-10-17 15-14-37](https://github.com/user-attachments/assets/b332bf1e-5a17-43b0-b533-5a3c2084b131)
+
+3. **Download Complete:**
+   ![Screenshot from 2024-10-17 15-16-09](https://github.com/user-attachments/assets/816c60b1-dc1f-4450-8196-c5b5252e96e8)
 
 ## Features
 - **Automatically fetches** the active YouTube tab URL.
@@ -71,15 +80,6 @@ In frontend directory
 3. **Usign the Extension:**
 Once loaded, open a YouTube video in a tab, click on the extension icon, and    download the video!
 
-## Screenshots
 
-1. **Extendion's UI:**
-   ![Screenshot from 2024-10-17 15-13-07](https://github.com/user-attachments/assets/6f217295-f656-4c23-a803-aaf45c0d363c)
-
-2. **Video Downloading:**
-   ![Screenshot from 2024-10-17 15-14-37](https://github.com/user-attachments/assets/b332bf1e-5a17-43b0-b533-5a3c2084b131)
-
-3. **Download Complete:**
-   ![Screenshot from 2024-10-17 15-16-09](https://github.com/user-attachments/assets/816c60b1-dc1f-4450-8196-c5b5252e96e8)
 
    
