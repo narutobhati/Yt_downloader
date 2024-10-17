@@ -33,7 +33,7 @@ A **YouTube Video Downloader** built as a Chrome extension using **React.js** an
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/yt-extension.git
+   git clone https://github.com/narutobhati/Youtube-downloading-Extension.git
    cd yt-downloader
 
 2. **Install Frontend Dependencies:**
