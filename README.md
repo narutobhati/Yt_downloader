@@ -5,7 +5,7 @@ A **YouTube Video Downloader** built as a Chrome extension using **React.js** an
 
 ## Screenshots
 
-1. **Extendion's UI:**
+1. **Extension's UI:**
    ![Screenshot from 2024-10-17 15-13-07](https://github.com/user-attachments/assets/6f217295-f656-4c23-a803-aaf45c0d363c)
 
 2. **Video Downloading:**
